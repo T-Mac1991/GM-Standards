@@ -87,3 +87,12 @@ There following are all of the published standards at the time of writing (Nov 2
  * Financial IC card Key Management System technology Specification
  * Specifications of Financial Cryptographic Server
 
+
+
+## Other standards download sites:
+
+http://www.upbz.net/Fulltext86210149.htm
+
+https://gmssl.cn/gmssl/index.jsp
+
+http://www.bzko.com/
